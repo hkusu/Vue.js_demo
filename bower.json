@@ -1,0 +1,9 @@
+{
+  "name": "vue",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "vue": "~0.10.6",
+    "jquery": "~2.1.1"
+  }
+}
