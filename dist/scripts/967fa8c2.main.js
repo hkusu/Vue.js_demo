@@ -1,0 +1,1 @@
+(function(){$(function(){var a;a=new Vue({el:"#demo",data:{firstName:"太郎",lastName:"山田",count:0},methods:{execute:function(){this.message="実行しました"}}})})}).call(this);
